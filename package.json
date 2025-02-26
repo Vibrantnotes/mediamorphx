@@ -1,5 +1,5 @@
 {
-  "name": "mediamorphx-api",
+  "name": "mediamorphx",
   "version": "1.0.0",
   "dependencies": {
     "axios": "^1.5.0"
